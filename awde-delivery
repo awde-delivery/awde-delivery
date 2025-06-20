@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ali Awde Delivery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8ee;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    img {
+      max-width: 200px;
+      margin-top: 20px;
+    }
+    h1 {
+      color: #c62828;
+    }
+    h2 {
+      color: #f9a825;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #43a047;
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    .btn:hover {
+      background-color: #388e3c;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://chat.openai.com/cdn-cgi/imagedelivery/XVa1y8qsNF-BcPzQYPLSHA/file-6SCszQ19MWLwFqeJFymNjL/public" alt="Ali Awde Delivery Logo">
+  <h1>Ali Awde Delivery</h1>
+  <h2>منوصل كل شي 💨</h2>
+  <p>للطلب السريع، كبسة زر ووصّلنا لعندك!</p>
+  <a href="https://wa.me/96178811785" class="btn">اطلب عبر واتساب</a>
+</body>
+</html>
